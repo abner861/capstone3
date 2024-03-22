@@ -1,0 +1,6 @@
+Regular user
+name
+password
+admin
+name 
+password
